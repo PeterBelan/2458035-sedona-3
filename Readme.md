@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Peter Belan](https://up.htmlacademy.ru/htmlcss-individual/3/user/2458035).
-* Наставник: `Неизвестно`.
+* Наставник:[I]().
 
 ---
 
