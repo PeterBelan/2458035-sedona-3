@@ -2,7 +2,7 @@
 
 * Студент: [Peter Belan](https://up.htmlacademy.ru/htmlcss-individual/3/user/2458035).
 * Наставник:[I]().
-
+* Сайт [Мой проект Седона](https://peterbelan.github.io/2458035-sedona-3/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
