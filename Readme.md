@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Peter Belan](https://up.htmlacademy.ru/htmlcss-individual/3/user/2458035).
-* Наставник:[I]().
+* Наставник:[Оксана Вайнруб](https://htmlacademy.ru/profile/id166797).
 * Сайт [Мой проект Седона](https://peterbelan.github.io/2458035-sedona-3/)
 ---
 
