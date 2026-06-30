@@ -3,10 +3,11 @@
   <head>
     <meta charset="utf-8">
     <title>HTML Academy: Седона</title>
+    <link rel="stylesheet" href="styles/styles.css">
     <link rel="icon" sizes="32x32" href="favicon.ico">
   </head>
 
-<body style="background-color: #e9d58f;>
+<body>
   <header class= "page-header">
     <nav class="navigation">
       <a class="navigation-logo" href="index.html">
@@ -54,7 +55,6 @@
 
     <h1 class="visually-hidden">Седона</h1>
     <section class="hero">
-      <img class="hero-image" src="images/index-background.jpg" width="1200" height="485" alt="Горы Седоны">
       <img class="hero-welcome" src="images/welcome.svg" width="458" height="352" alt="Добро пожаловать в Седону">
     </section>
 
@@ -67,15 +67,19 @@
       <h2 class="visually-hidden">Преимущества</h2>
       <ul class="advantages-list">
 
-        <li class="advantages-item">
-          <h3 class="advantages-title">Настоящий городок</h3>
-          <p class="advantages-description">Седона — не аттракцион для туристов, там течёт своя жизнь</p>
+        <li class="advantages-item advantages-item-blue">
+          <div class="advantages-content">
+            <h3 class="advantages-title">Настоящий городок</h3>
+            <p class="advantages-description">Седона — не аттракцион для туристов, там течёт своя жизнь</p>
+          </div>
           <img class="advantages-image" src="images/photo-1-index.jpg" width="800" height="385" alt="Здание гостиницы в Седоне на фоне горного пейзажа">
         </li>
 
         <li class="advantages-item">
+
           <h3 class="advantages-title">Небольшая площадь</h3>
           <p class="advantages-description">Все достопримечательности находятся очень близко</p>
+
         </li>
 
         <li class="advantages-item">
@@ -88,15 +92,18 @@
           <p class="advantages-description">Большинство едет в Гранд Каньон и толпится там</p>
         </li>
 
-        <li class="advantages-item">
-          <h3 class="advantages-title">Там есть мост дьявола</h3>
-          <p class="advantages-description">Да, по нему можно пройти! Если вы осмелитесь, разумеется</p>
+        <li class="advantages-item advantages-item-blue">
           <img class="advantages-image" src="images/photo-2-index.jpg" width="800" height="385" alt="Скальный мост Дьявола в Седоне">
+          <div class="advantages-content">
+            <h3 class="advantages-title">Там есть мост дьявола</h3>
+            <p class="advantages-description">Да, по нему можно пройти! Если вы осмелитесь, разумеется</p>
+          </div>
+
         </li>
 
       </ul>
     </section>
-
+<!--тут-->
     <section class="services">
 
       <h2 class="services-title">Приезжайте в Седону отдохнуть в комфорте и уюте!</h2>
@@ -146,7 +153,7 @@
     <ul class="footer-socials-list">
       <li class="footer-socials-item">
         <a class="footer-socials-link" href="#">
-          <img class="footer-icon" src="images/vk.png" width="24" height="14" alt="">
+          <img class="footer-icon" src="images/vk.svg" width="24" height="14" alt="">
           <span class="visually-hidden">
             VK
           </span>
@@ -154,7 +161,7 @@
       </li>
       <li class="footer-socials-item">
         <a class="footer-socials-link" href="#">
-          <img class="footer-icon" src="images/tg.png" width="18" height="15" alt="">
+          <img class="footer-icon" src="images/tg.svg" width="18" height="15" alt="">
           <span class="visually-hidden">
             Telegramm
           </span>
