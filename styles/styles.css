@@ -66,6 +66,7 @@ body {
   background-repeat: no-repeat, no-repeat;
   background-position: bottom center, center;
   background-size: 1200px 57px, cover;
+  text-align: center;
 }
 
 .intro-title{
